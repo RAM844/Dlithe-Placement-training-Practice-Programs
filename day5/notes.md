@@ -1,0 +1,13 @@
+# Notes
+- python notes
+	- list [] - mutable
+	- tuple () - immutable
+	- set{} - no duplicate values
+	- dictionary {} key value pairs
+- StringBuffer vs StringBuilder
+	- StringBuffer is synchronized i.e Thread Safe,but less efficient than StringBuilder
+	- StringBuilder is non Synchronized i.e not Thread safe, but more efficient than StringBuffer
+- what is thread Safe
+	- This means that different threads can access the same resources without exposing erroneous behavior or producing unpredictable results.
+- real time example for Threading, Process, Multitasking , maltiProcessing.
+
