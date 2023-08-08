@@ -10,4 +10,4 @@
 - what is thread Safe
 	- This means that different threads can access the same resources without exposing erroneous behavior or producing unpredictable results.
 - real time example for Threading, Process, Multitasking , maltiProcessing.
-
+- No pointers in java because of security reasons
