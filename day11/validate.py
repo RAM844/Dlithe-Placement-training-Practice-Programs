@@ -4,7 +4,7 @@ import snowflake.connector
 # Gets the version
 conn = snowflake.connector.connect(
     user='RAM12341234',
-    password='Balaji!23',
+    password='funny',
     account='dfnrhmn-xj91435',
     session_parameters={
         'QUERY_TAG': 'EndOfMonthFinancials',
